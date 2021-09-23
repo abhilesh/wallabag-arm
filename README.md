@@ -3,7 +3,7 @@
 Wallabag docker images for ```arm/v7``` and ```arm64``` built from the [official Wallabag Dockerfile](https://github.com/wallabag/docker) with slight modifications. 
 
 An example docker-compose for running wallabag (in addition to the one listed below) is available at https://github.com/abhilesh/self-hosted_docker_setups
-&nbsp;
+
 ---
 
 ### Documentation from official Wallabag - 
